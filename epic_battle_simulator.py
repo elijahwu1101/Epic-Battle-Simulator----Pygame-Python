@@ -1,9 +1,6 @@
-
-
 import pygame
 import random
 import math
-
 
 # --- Constants ---
 screen_width = 800
